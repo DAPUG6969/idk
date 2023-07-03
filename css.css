@@ -1,0 +1,19 @@
+body{
+    background-image: linear-gradient(to bottom, rgb(27, 80, 109)0%, rgb(27, 80, 109)20%,rgb(33, 60, 74)1%);
+}
+h1{
+    color:rgb(39, 39, 39);
+    text-align: center;
+}
+button{
+    background-color: rgb(39, 39, 39);
+    color: rgb(27, 80, 109);
+    padding: 10px 10px;
+    font-size: 52;
+    border-radius: 10px;
+    transition-duration: 0.4s;
+}
+button:hover{
+    translate: 0rem 0.5rem;
+    background-color: rgb(33, 60, 74);
+}
